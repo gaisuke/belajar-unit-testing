@@ -1,0 +1,24 @@
+{
+  "name": "belajar-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandles",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaisuke/belajar-unit-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaisuke/belajar-unit-testing/issues"
+  },
+  "homepage": "https://github.com/gaisuke/belajar-unit-testing#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
